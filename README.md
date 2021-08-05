@@ -1,6 +1,6 @@
 Tasty Kitchen App
 
-[Visit Webpage](https://msrtastykitchen.ccbp.tech/)
+<a href="https://msrtastykitchen.ccbp.tech/" target="_blank">Visit Webpage</a>
 
 Valid Credentials :
 
